@@ -11,3 +11,15 @@ def calculateTax(Total:float)->float:
 
 def afterTax(Total:float)->float:
     return (Total + calculateTax(Total))
+
+def feetToMeters(distance:float)->float:
+    distance = round(distance * 0.3048, 2)
+    return distance
+
+def metersToFeet(distance:float)->float:
+    distance = round(distance / 0.3048, 2)
+    return distance
+
+def displayTitle():
+    print("Conversions Menu:\na.\tFeet to Meters\nb.\tMeters to Feet")
+    
