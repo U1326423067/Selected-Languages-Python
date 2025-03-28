@@ -1,0 +1,45 @@
+Pig Dice Rules:
+* See how many turns it takes you to get to 20.
+* Turn ends when player rolls a 1 or chooses to hold.
+* If you roll a 1, you lose all points earned during the turn.
+* If you hold, you save all points earned during the turn.
+
+Turn 1
+Your score is 5
+Your score is 7
+Your score is 12
+You got 1
+
+Turn 2
+You got 1
+
+Turn 3
+Your score is 6
+Your score is 8
+Your score is 13
+Your score is 19
+You got 1
+
+Turn 4
+You got 1
+
+Turn 5
+Your score is 5
+Your score is 9
+Your score is 12
+Your score is 17
+You got 1
+
+Turn 6
+Your score is 6
+Your score is 12
+You got 1
+
+Turn 7
+Your score is 4
+Your score is 10
+Your score is 13
+Your score is 19
+Your score is 22
+
+You take 7 turns
